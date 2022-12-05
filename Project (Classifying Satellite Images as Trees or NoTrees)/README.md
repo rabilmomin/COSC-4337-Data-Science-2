@@ -1,15 +1,15 @@
 This is the code and dataset for a group data science 2 project.
 
-Group members are
+Group members:
 Charles Abdo
 Rabil Momin
 
 
-A google slideshow was created to present our findings to the class.
+A google slideshow created to present our findings to the class.
  
 https://docs.google.com/presentation/d/1JRznENQlxkU9PmYPGXMAy1eMrYwI2_iajc2IZgeUny0/edit?usp=sharing
 
-The video presentation that was used for presenting.
+The video was used for presenting to class.
 
 https://youtu.be/V-huPsneuJo
 
