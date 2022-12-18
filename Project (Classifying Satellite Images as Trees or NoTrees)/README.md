@@ -1,4 +1,4 @@
-This is the code and dataset for a group data science 2 project.
+This is the code and dataset for a group Data Science 2 project.
 
 Group members:
 Charles Abdo
